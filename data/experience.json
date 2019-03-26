@@ -1,0 +1,20 @@
+[
+    {
+        "role":"Student Technician",
+        "company":"Texas A&M University Libraries",
+        "summary":"Diagnose computer hardware and software problems for staff and faculty of the library",
+        "range":"September 2018 - Present"
+    },
+    {
+        "role":"Student Assistant",
+        "company":"Texas A&M University, College of Architechure",
+        "summary":"Developed relationships with students and faculty of the college by providing assistance and support",
+        "range":"September 2017 - September 2018"
+    },
+    {
+        "role":"UH-72 Repairer",
+        "company":"Texas Army National Guard",
+        "summary":"Repair and replace components on the UH-72 major systems and subsystems using technical manuals",
+        "range":"April 2015 - April 2021"
+    }
+]

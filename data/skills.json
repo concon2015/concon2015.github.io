@@ -1,0 +1,14 @@
+[
+  {
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":["Windows","macOS","linux","Python","bash","git","C","IP Networking"]
+  },
+  {
+    "grouping":"Containers & Cloud",
+      "skills":["Docker","AWS","Google Cloud"]
+  },
+  {
+      "grouping":"Other Skills",
+      "skills":["Project Management","Trello","Scrum","Terminal","DevOps","End User Support","Cyber Security","Web Design"]
+  }
+]
