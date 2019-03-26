@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project Management on Connor Blackard Online Resume</title>
-    <link>http://www.blackard.org/tags/project-management/</link>
+    <link>http://concon2015.github.io/tags/project-management/</link>
     <description>Recent content in Project Management on Connor Blackard Online Resume</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
     
-	<atom:link href="http://www.blackard.org/tags/project-management/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://concon2015.github.io/tags/project-management/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Texas A&amp;M Tailgating Registration</title>
-      <link>http://www.blackard.org/projects/creations/tailgate/</link>
+      <link>http://concon2015.github.io/projects/creations/tailgate/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>http://www.blackard.org/projects/creations/tailgate/</guid>
+      <guid>http://concon2015.github.io/projects/creations/tailgate/</guid>
       <description>This was a project that was sponsored by Texas A&amp;amp;M&amp;rsquo;s Director of Tailgating to create a proof of concept design, system and area maps for web based registration for Football Tailgating. This project was hosted on an AWS instance, running a web server and a functional registration database. The project was coded in HTML, CSS, PHP and used a MySQL database. The project was ran using Agile Scrum Project Management with work coordinated through Trello and code release through GitHub.</description>
     </item>
     
